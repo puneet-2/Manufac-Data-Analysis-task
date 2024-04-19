@@ -25,3 +25,7 @@ git clone <repository_url>
 
 
 Author --> Doddi Puneet 
+
+-----------------------------------------
+NOTE -------------
+OUTPUT OF THE CODE IS ATTACHED AS JPG FILE. KINDLY REFER TO IT. 
