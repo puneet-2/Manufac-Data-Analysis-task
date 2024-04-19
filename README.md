@@ -34,5 +34,7 @@ Author --> Doddi Puneet
 
 -----------------------------------------
 NOTE -------------
-OUTPUT OF THE CODE IS ATTACHED AS JPG FILE. KINDLY REFER TO IT. 
+OUTPUT OF THE CODE IS ATTACHED AS JPG FILE. KINDLY REFER TO IT.
+![Output](https://github.com/puneet-2/Manufac-Data-Analysis-task/assets/79053870/92230e65-197d-419f-acb9-4ccf27345b8c)
+
 
