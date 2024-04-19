@@ -10,8 +10,14 @@ This project calculates statistical measures of the Wine Data Set and displays t
 git clone <repository_url>
 
 1 - Navigate to the project directory: cd wine-statistics
+
 2 - Install dependencies: yarn install
-3 - Run the project: yarn start
+
+Step 3 - Install Mantine
+Install Mantine v7 using yarn.
+yarn add @mantine/core
+
+Step 4 - Run the project: yarn start
 
 -->This will open the application in your default web browser.
 
@@ -29,3 +35,4 @@ Author --> Doddi Puneet
 -----------------------------------------
 NOTE -------------
 OUTPUT OF THE CODE IS ATTACHED AS JPG FILE. KINDLY REFER TO IT. 
+
