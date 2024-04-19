@@ -1,26 +1,19 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+// src/App.tsx
 
-function App() {
+import React from 'react';
+import WineStatistics from './components/WineStatistics';
+
+const wineData = [{ Alcohol: 14.23, Flavanoids: 3.06, Ash: 2.43, Hue: 1.04, Magnesium: 106 },
+  { Alcohol: 13.2, Flavanoids: 2.76, Ash: 2.14, Hue: 1.05, Magnesium: 101 }
+  // Modify data set accordingly
+];
+
+const App: React.FC = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <WineStatistics data={wineData} />
     </div>
   );
-}
+};
 
 export default App;
